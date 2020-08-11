@@ -1,0 +1,2 @@
+# exam_jquery_technical_note
+『プラグインを使わないスキルを身につけたい人のためのjQueryテクニカルノート』の学習
